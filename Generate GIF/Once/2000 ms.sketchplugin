@@ -1,3 +1,0 @@
-#import 'plugin.js'
-
-plugin("find ~/ -name '.img*.png.gif' -execdir bash -c '~/Library/ImageKit/gifx -d 200 '.img*.png.gif' -o ../Animated.gif' \\;")
