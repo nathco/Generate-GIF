@@ -12,7 +12,7 @@ This plugin is intended for simple keyframe animations. I recommend using Adobe 
 5. That's it...
 
 ## How to Use
-Create your content on a sequence of artboards using a `Frame 1`, `Frame 2`, `Frame 3` naming convention. Each artboard acts as an animation keyframe and will play sequentially according to the naming structure. When ready, navigate to `Plugins ▸ Generate GIF` and select a playback method and frame animation delay ( see options below ). The animated GIF will export to the directory of your choosing.
+Create your content on a sequence of artboards using a `Frame 01`, `Frame 02`, `Frame 03` naming convention. Each artboard acts as an animation keyframe and will play sequentially according to the naming structure. When ready, navigate to `Plugins ▸ Generate GIF` and select a playback method and frame animation delay ( see options below ). The animated GIF will export to the directory of your choosing.
 
 **Playback Options**  
 `Loop: play animation forever`    
@@ -41,4 +41,4 @@ If you notice issues with transparency and / or antialiasing, try adding a solid
 – Compatible with Sketch 3.2.2
 
 ## Feedback
-If you discover any issues or have questions regarding usage, please send a message to [mail@nath.co](mailto:mail@nath.co) or find me on twitter [@NathanRutzky](http://twitter.com/NathanRutzky).
+If you discover any issues or have questions regarding usage, please send a message to [code@nath.co](mailto:code@nath.co) or find me on GitHub [@nathco](https://github.com/nathco).
