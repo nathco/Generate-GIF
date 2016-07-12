@@ -39,6 +39,9 @@ If you notice issues with transparency and / or antialiasing, try adding a solid
 – Users can now select the export directory      
 – Exporting is much faster  
 – Compatible with Sketch 3.2.2
+**Generate GIF 1.0.2**   
+– Updated GIFX file        
+– Compatible with Sketch 3.8.3       
 
 ## Feedback
 If you discover any issues or have questions regarding usage, please send a message to [code@nath.co](mailto:code@nath.co) or find me on GitHub [@nathco](https://github.com/nathco).
