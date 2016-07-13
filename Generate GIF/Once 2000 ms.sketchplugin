@@ -1,3 +1,3 @@
-#import 'plugin.js'
+@import 'plugin.js'
 
 plugin("find \"" + gifsetPath + "\" -name '*.png.gif' -execdir bash -c '\"" + gifx + "\" -d 200 '*.png.gif' -o \"" + gifPath + "\"' \\;")
