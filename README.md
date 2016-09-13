@@ -1,0 +1,2 @@
+# Notice!
+The **Generate GIF** and **Generate ICNS** plugins are now merged into a single plugin bundle. You can download and read more about the new and improved version at my **[Export More](http://github.com/nathco/Export-More)** repository.
